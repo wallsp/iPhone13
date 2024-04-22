@@ -1,24 +1,9 @@
-# Página do Produto iPhone 13 Pro
- 
-Este projeto consiste em uma página de produto para o iPhone 13 Pro, onde os usuários podem selecionar diferentes cores do iPhone e visualizar a imagem correspondente.
- 
-## Funcionalidades
-- Os usuários podem selecionar diferentes cores do iPhone clicando nos botões de seleção de cores.
-- A cor selecionada é destacada visualmente.
-- A imagem do produto é atualizada dinamicamente para exibir a imagem correspondente à cor selecionada.
-- A troca de imagem é acompanhada por uma animação suave.
- 
-## Tecnologias utilizadas
-- HTML5: para estruturar a página.
-- CSS3: para estilizar a página e criar uma experiência visual atraente.
-- JavaScript: para adicionar interatividade aos botões de seleção de cores e atualizar a imagem do produto.
- 
 ## Pré-requisitos
 - Navegador da web atualizado.
  
 ## Como executar o projeto
  Clone o repositório para o seu ambiente local:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/wallsp/iPhone13.git
  
  Navegue até o diretório do projeto:
 cd nome-do-repositorio
